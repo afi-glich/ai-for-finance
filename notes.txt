@@ -1,0 +1,10 @@
+Title: Predicting and Analyzing Corporate Legal Status using Financial Data from Aida
+
+dataset: 9.5K
+
+stato attivo 5K
+stato insolvenza 1K
+stato amministrazione controllata 3.5k
+
+data from 4 Years: 2020-2023
+
